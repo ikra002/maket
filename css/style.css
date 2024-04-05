@@ -1,0 +1,14 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+    vertical-align: middle;
+}
+/* чтобы разместить надпись посередине или где то еще
+по горизонтале:: text-align: center;    писать в td, th
+по вертикале:: vertical-align: middle;*/
+ 
